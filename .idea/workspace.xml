@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7359e4b2-349e-4c9e-b0bc-8ee4e8968f5e" name="Default Changelist" comment="" />
+    <list default="true" id="7359e4b2-349e-4c9e-b0bc-8ee4e8968f5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/openjfx/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/openjfx/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/openjfx/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/openjfx/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/openjfx/SystemInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/openjfx/SystemInfo.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -25,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1k9WxaRoxO7aqc91Hkyd4cV5bJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +65,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
@@ -70,6 +92,7 @@
       <updated>1605113536970</updated>
       <workItem from="1605113538495" duration="892000" />
       <workItem from="1605114451483" duration="62000" />
+      <workItem from="1605114537726" duration="941000" />
     </task>
     <servers />
   </component>
@@ -77,30 +100,42 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="62" width="803" height="999" key="CommitChangelistDialog2" timestamp="1605115384022">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="555" y="62" width="803" height="999" key="CommitChangelistDialog2/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115384022" />
     <state x="745" y="316" key="FileChooserDialogImpl" timestamp="1605113848164">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
     <state x="745" y="316" key="FileChooserDialogImpl/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605113848164" />
-    <state width="1874" height="171" key="GridCell.Tab.0.bottom" timestamp="1605114518964">
+    <state width="1874" height="171" key="GridCell.Tab.0.bottom" timestamp="1605115271742">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state width="1874" height="171" key="GridCell.Tab.0.bottom/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605114518964" />
-    <state width="1874" height="171" key="GridCell.Tab.0.center" timestamp="1605114518964">
+    <state width="1874" height="171" key="GridCell.Tab.0.bottom/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115271742" />
+    <state width="1874" height="171" key="GridCell.Tab.0.center" timestamp="1605115271742">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state width="1874" height="171" key="GridCell.Tab.0.center/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605114518964" />
-    <state width="1874" height="171" key="GridCell.Tab.0.left" timestamp="1605114518964">
+    <state width="1874" height="171" key="GridCell.Tab.0.center/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115271742" />
+    <state width="1874" height="171" key="GridCell.Tab.0.left" timestamp="1605115271742">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state width="1874" height="171" key="GridCell.Tab.0.left/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605114518964" />
-    <state width="1874" height="171" key="GridCell.Tab.0.right" timestamp="1605114518964">
+    <state width="1874" height="171" key="GridCell.Tab.0.left/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115271742" />
+    <state width="1874" height="171" key="GridCell.Tab.0.right" timestamp="1605115271742">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state width="1874" height="171" key="GridCell.Tab.0.right/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605114518964" />
+    <state width="1874" height="171" key="GridCell.Tab.0.right/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115271742" />
     <state x="446" y="135" key="SettingsEditor" timestamp="1605114144620">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
     <state x="446" y="135" key="SettingsEditor/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605114144620" />
+    <state x="665" y="283" width="590" height="554" key="find.popup" timestamp="1605115132975">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="665" y="283" width="590" height="554" key="find.popup/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115132975" />
+    <state width="869" height="397" key="javadoc.popup.new" timestamp="1605115176509">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="869" height="397" key="javadoc.popup.new/0.36.1920.1044/1920.0.1920.1080@0.36.1920.1044" timestamp="1605115176509" />
     <state x="338" y="135" key="new project wizard" timestamp="1605113936890">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
